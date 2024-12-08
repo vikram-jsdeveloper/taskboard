@@ -37,7 +37,7 @@ A Taskboard Application built with **React**, **TypeScript**, **Tailwind CSS**, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/taskboard.git
+   git clone https://github.com/vikram-jsdeveloper/taskboard.git
    cd taskboard
    npm install
    npm run dev
